@@ -11,15 +11,18 @@
 
 ```javascript
 const Iza = {
-  pronouns: "He" | "Him", "She"| "Her"
-  code: [Javascript, HTML, CSS, Java],
-  tools: [Vue, Node],
-  architecture: ["Design system pattern","Develop"],
-  techCommunities: {
-                        speaker: "Spanish", "English",
-                        dream: "Do the best"
+  Pronouns: "He" | "Him", 
+  Code: [C#,Java,Javascript, HTML, CSS],
+  CodeLearning [Phyton],
+  Tools: [Vue, Node],
+  ToolsLearning: [React],
+  Architecture: ["Design system pattern","Develop","BackEnd"],
+  MoreAbout: {
+                        Speaker: "Spanish", "English",
+                        Dream: "Do the best",
+                        FavoriteFood: "Pupusa"
                       },
- challenge: "Si el plan no funciona, cambia el plan, no la meta"
+ Challenge: "Si el plan no funciona, cambia el plan, no la meta"
 }
 ``` 
 ---
@@ -30,8 +33,10 @@ const Iza = {
 ---
 <em><b> Tell me your story.</b> I want to hear your voice, and I want to hear your conviction. <b> No matter who you are, where you’re from, your skin colour, gender identity: </b> speak yourself.</em> 
 --
-<img src="https://media.giphy.com/media/d8X9pwTyXMJtNK6zks/giphy.gif" width="250"> 
+<img src="https://media.giphy.com/media/d8X9pwTyXMJtNK6zks/giphy.gif"  width="250"> 
 
 ---
 
-☀ From [@Iza091](https://github.com/Iza091)
+<img src="https://media.giphy.com/media/H42HxutOgUwRAkFX85/giphy.gif" width="90">  From [@Iza091](https://github.com/Iza091)
+<img src="https://media.giphy.com/media/l2AWFSUz5OLT0IljwA/giphy.gif" width="90"> 
+
