@@ -1,6 +1,6 @@
 <h2> Hi, I'm Iza! <img src="https://media.giphy.com/media/lPpm6ZQ8Bvyl86IIIU/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/VcwFL1JU5ZVBh7Fts0/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="https://ugb.edu.sv/">University Gerardo Barrios </a><img src="https://media.giphy.com/media/vjCEgY6ci1i2wgndJm/giphy.gif" width="30"></br>Developer Student at <a href="https://ugb.edu.sv/ing-en-sistemas-y-redes-informaticas.html">Ingeniería en Sistemas y Redes Informaticas </a><img src="https://media.giphy.com/media/YnNnXdEWvSSd763q0E/giphy.gif" width="30"> 
+<p><em> Software Enginner Student at <a href="https://ugb.edu.sv/">University Gerardo Barrios </a><img src="https://media.giphy.com/media/vjCEgY6ci1i2wgndJm/giphy.gif" width="30"></br>Developer Student at <a href="https://ugb.edu.sv/ing-en-sistemas-y-redes-informaticas.html">Ingeniería en Sistemas y Redes Informaticas </a><img src="https://media.giphy.com/media/YnNnXdEWvSSd763q0E/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: Iza](https://img.shields.io/twitter/follow/Iza_091?style=social)](https://twitter.com/Iza_091)
