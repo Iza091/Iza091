@@ -5,9 +5,9 @@
 <a href="https://twitter.com/Iza_091"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 <a href="https://www.instagram.com/Izaa091/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 <a href="https://www.linkedin.com/in/eduardo-isa%C3%ADas-villegas-ortiz-0971181a5"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-<a href="izagithub26@gmail.com?subject=HEY%20Git%20User%20Here"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-<a href="https://twitter.com/Iza_091"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+ <a href="mailto:izagithub26@gmail.com?subject=HEY%20Git%20User%20Here"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 
+  
 ---
 ### <img src="https://media.giphy.com/media/H3BownFihDztS6QNRI/giphy.gif" width="70"> A little more about me!!  <img src="https://media.giphy.com/media/fwVP07bjnMy5wJviHW/giphy.gif" width="70">
 
