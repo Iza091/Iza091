@@ -32,18 +32,32 @@ const Iza = {
 
 ![Iza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iza091&show_icons=true&theme=tokyonight)
 
-<img src="https://media.giphy.com/media/eGyF7Nek7QQZXLBC1Z/giphy.gif" width="250"> 
+<img src="https://media.giphy.com/media/H42HxutOgUwRAkFX85/giphy.gif" width="250"> 
 
 ---
-<img src="https://media.giphy.com/media/H42HxutOgUwRAkFX85/giphy.gif" width="90">  <em><b> Tell me your story.</b> I want to hear your voice, and I want to hear your conviction. <b> No matter who you are, where you’re from, your skin colour, gender identity: </b> speak yourself.</em> 
+<img src="https://media.giphy.com/media/eGyF7Nek7QQZXLBC1Z/giphy.gif" width="90">  <em><b> Tell me your story.</b> I want to hear your voice, and I want to hear your conviction. <b> No matter who you are, where you’re from, your skin colour, gender identity: </b> speak yourself.</em> 
 
-<img src="https://media.giphy.com/media/l2AWFSUz5OLT0IljwA/giphy.gif" width="90"> 
 
 ---
 <img src="https://media.giphy.com/media/d8X9pwTyXMJtNK6zks/giphy.gif"  width="250"> 
 
 ---
+  
+  ```javascript
+Coffe coffe = new Coffe();
+if (coffe.Empty)
+{
+ coffe.Reffill();
+}
+else
+{
+ coffe.drink();
+}
 
-From [@Iza091](https://github.com/Iza091)
+// I'm a software developer
+``` 
+<img src="https://media.giphy.com/media/l2AWFSUz5OLT0IljwA/giphy.gif" width="190"> 
+  
+From [@Iza091](https://github.com/Iza091) <img src="https://media.giphy.com/media/UoYeqUdo9YUmB6RjXH/giphy.gif" width="50"></h2>
 
 
