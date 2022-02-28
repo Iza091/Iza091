@@ -39,7 +39,7 @@ const Iza = {
 
 
 ---
-<img src="https://media.giphy.com/media/UoYeqUdo9YUmB6RjXH/giphy.gif"  width="250"> 
+<img src="https://media.giphy.com/media/l2AWFSUz5OLT0IljwA/giphy.gif"  width="250"> 
 
 ---
   
@@ -56,8 +56,8 @@ else
 
 // I'm a software developer
 ``` 
-<img src="https://media.giphy.com/media/l2AWFSUz5OLT0IljwA/giphy.gif" width="190"> 
+<img src="https://media.giphy.com/media/JpLvR1AirQDg34UYIk/giphy.gif" width="190"> 
   
-From [@Iza091](https://github.com/Iza091) <img src="https://media.giphy.com/media/JpLvR1AirQDg34UYIk/giphy.gif" width="50"></h2>
+From [@Iza091](https://github.com/Iza091) <img src="https://media.giphy.com/media/UoYeqUdo9YUmB6RjXH/giphy.gif" width="50"></h2>
 
 
