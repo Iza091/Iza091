@@ -56,10 +56,15 @@ else
 
 // I'm a software developer
 ``` 
+  
 <img src="https://media.giphy.com/media/JpLvR1AirQDg34UYIk/giphy.gif" width="190"> 
+  
 ---  
+  
 <img src="https://media.giphy.com/media/U8FoilQ5UG9DZhLgs8/giphy.gif" width="250">   
+  
 ---
+  
 From [@Iza091](https://github.com/Iza091) <img src="https://media.giphy.com/media/qlqXlKLwXWtTZgn8cJ/giphy.gif https://media.giphy.com/media/xLERgWtPBXdiFQnK9P/giphy.gif" width="50"></h2>
 
 
