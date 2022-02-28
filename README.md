@@ -58,6 +58,8 @@ else
 ``` 
 <img src="https://media.giphy.com/media/JpLvR1AirQDg34UYIk/giphy.gif" width="190"> 
   
-From [@Iza091](https://github.com/Iza091) <img src="https://media.giphy.com/media/UoYeqUdo9YUmB6RjXH/giphy.gif" width="50"></h2>
+<img src="https://media.giphy.com/media/U8FoilQ5UG9DZhLgs8/giphy.gif" width="190">   
+  
+<img src="https://media.giphy.com/media/qlqXlKLwXWtTZgn8cJ/giphy.gif" width="50">From [@Iza091](https://github.com/Iza091) <img src="https://media.giphy.com/media/qlqXlKLwXWtTZgn8cJ/giphy.gif https://media.giphy.com/media/xLERgWtPBXdiFQnK9P/giphy.gif" width="50"></h2>
 
 
