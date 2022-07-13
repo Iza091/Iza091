@@ -1,5 +1,5 @@
 <h2> Hi, I'm Iza! <img src="https://media.giphy.com/media/VcwFL1JU5ZVBh7Fts0/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/YOAho0PHXMEz0kL8tA/giphy.gif" width="230"> 
+<img align='right' src="https://media.giphy.com/media/l2AWFSUz5OLT0IljwA/giphy.gif" width="230">
 <p><em> Software Enginner Student at <a href="https://ugb.edu.sv/">University Gerardo Barrios </a><img src="https://media.giphy.com/media/vjCEgY6ci1i2wgndJm/giphy.gif" width="30"></br>Developer Student at <a href="https://ugb.edu.sv/ing-en-sistemas-y-redes-informaticas.html">Ingeniería en Sistemas y Redes Informaticas </a><img src="https://media.giphy.com/media/YnNnXdEWvSSd763q0E/giphy.gif" width="30"> 
 </em></p>
 <a href="https://twitter.com/Iza_091"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
@@ -39,7 +39,7 @@ const Iza = {
 
 
 ---
-<img src="https://media.giphy.com/media/l2AWFSUz5OLT0IljwA/giphy.gif"  width="250"> 
+<img src="https://media.giphy.com/media/YOAho0PHXMEz0kL8tA/giphy.gif "  width="250"> 
 
 ---
   
