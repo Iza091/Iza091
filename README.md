@@ -39,7 +39,7 @@ const Iza = {
 
 
 ---
-<img src="https://media.giphy.com/media/YOAho0PHXMEz0kL8tA/giphy.gif "  width="250"> 
+<img src="https://media.giphy.com/media/YOAho0PHXMEz0kL8tA/giphy.gif" width="250"> 
 
 ---
   
