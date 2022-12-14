@@ -67,6 +67,6 @@ else
   
 From [@Iza091](https://github.com/Iza091) <img src="https://media.giphy.com/media/qlqXlKLwXWtTZgn8cJ/giphy.gif https://media.giphy.com/media/xLERgWtPBXdiFQnK9P/giphy.gif" width="50"></h2>
 
- [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM?si=a650b98fe3764fa9)
+ 
 
 
