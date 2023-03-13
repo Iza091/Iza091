@@ -13,19 +13,44 @@
 
 ```javascript
 const Iza = {
-  Pronouns: "He" | "Him", 
-  Code: [C#,Java,Javascript, HTML, CSS],
-  CodeLearning [Phyton],
-  Tools: [Vue, Node],
-  ToolsLearning: [React],
-  Architecture: ["Design system pattern","Develop","BackEnd"],
+  Pronouns: ["He", "Him", "She", "Her"], 
+  Code: ["C#", "Java", "JavaScript", "HTML", "CSS", "Python"],
+  CodeLearning: ["TypeScript"],
+  Tools: ["Vue", "Node", "Laravel"],
+  ToolsLearning: ["React", "Vue"],
+  Architecture: ["Design system pattern", "Develop", "BackEnd","FrontEnd"],
   MoreAbout: {
-                        Speaker: "Spanish", "English",
-                        Dream: "Do the best",
-                        FavoriteFood: "Pupusa"
-                      },
- Challenge: "Si el plan no funciona, cambia el plan, no la meta"
+    Speaker: ["Spanish", "English"],
+    Dream: "Do the best",
+    FavoriteFood: "Pupusa",
+    Phrase: "Haz siempre lo mejor que puedas, incluso si parece que nadie está viendo. " + 
+    "El éxito llega eventualmente si no te rindes. - J-Hope of BTS"
+  },
+  Challenge: "Si el plan no funciona, cambia el plan, no la meta",
+  
+  getLanguages: function() {
+    return this.Code.concat(this.CodeLearning);
+  },
+  
+  getTools: function() {
+    return this.Tools.concat(this.ToolsLearning);
+  },
+  
+  getSpeakers: function() {
+    return this.MoreAbout.Speaker;
+  },
+  
+  getPhrase: function() {
+    return this.MoreAbout.Phrase;
+  }
 }
+
+console.log(Iza.getLanguages());
+console.log(Iza.getTools());
+console.log(Iza.getSpeakers());
+console.log(Iza.getPhrase());
+
+
 ``` 
 ---
 <img src="https://media.giphy.com/media/RLQUdWyDqEinYkiBcF/giphy.gif" width="250"> 
@@ -44,17 +69,36 @@ const Iza = {
 ---
   
   ```javascript
-Coffe coffe = new Coffe();
-if (coffe.Empty)
-{
- coffe.Reffill();
+class Coffee {
+  constructor() {
+    this.empty = true;
+  }
+
+  drink() {
+    if (!this.empty) {
+      console.log("You have taken a sip of coffee. Enjoy!");
+    } else {
+      console.log("Your coffee cup is empty. Please refill it.");
+    }
+  }
+
+  refill() {
+    this.empty = false;
+    console.log("Your coffee cup has been refilled. Enjoy!");
+  }
 }
-else
-{
- coffe.drink();
+
+const coffee = new Coffee();
+
+if (coffee.empty) {
+  coffee.refill();
+} else {
+  coffee.drink();
 }
 
 // I'm a software developer
+
+  
 ``` 
   
 <img src="https://media.giphy.com/media/JpLvR1AirQDg34UYIk/giphy.gif" width="190"> 
