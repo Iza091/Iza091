@@ -11,45 +11,38 @@
 ---
 ### <img src="https://media.giphy.com/media/H3BownFihDztS6QNRI/giphy.gif" width="70"> A little more about me!!  <img src="https://media.giphy.com/media/fwVP07bjnMy5wJviHW/giphy.gif" width="70">
 
-```javascript
-const Iza = {
-  Pronouns: ["He", "Him", "She", "Her"], 
-  Code: ["C#", "Java", "JavaScript", "HTML", "CSS", "Python"],
-  CodeLearning: ["TypeScript"],
-  Tools: ["Vue", "Node", "Laravel"],
-  ToolsLearning: ["React", "Vue"],
-  Architecture: ["Design system pattern", "Develop", "BackEnd","FrontEnd"],
-  MoreAbout: {
-    Speaker: ["Spanish", "English"],
-    Dream: "Do the best",
-    FavoriteFood: "Pupusa",
-    Phrase: "Haz siempre lo mejor que puedas, incluso si parece que nadie está viendo. " + 
+```python
+Iza = {
+  "Pronouns": ["He", "Him", "She", "Her"], 
+  "Code": ["C#", "Java", "JavaScript", "HTML", "CSS", "Python"],
+  "CodeLearning": ["TypeScript"],
+  "Tools": ["Vue", "Node", "Laravel"],
+  "ToolsLearning": ["React", "Vue"],
+  "Architecture": ["Design system pattern", "Develop", "BackEnd","FrontEnd"],
+  "MoreAbout": {
+    "Speaker": ["Spanish", "English"],
+    "Dream": "Do the best",
+    "FavoriteFood": "Pupusa",
+    "Phrase": "Haz siempre lo mejor que puedas, incluso si parece que nadie está viendo. " + 
     "El éxito llega eventualmente si no te rindes. - J-Hope of BTS"
   },
-  Challenge: "Si el plan no funciona, cambia el plan, no la meta",
+  "Challenge": "Si el plan no funciona, cambia el plan, no la meta",
   
-  getLanguages: function() {
-    return this.Code.concat(this.CodeLearning);
-  },
+  "getLanguages": lambda: Iza["Code"] + Iza["CodeLearning"],
   
-  getTools: function() {
-    return this.Tools.concat(this.ToolsLearning);
-  },
+  "getTools": lambda: Iza["Tools"] + Iza["ToolsLearning"],
   
-  getSpeakers: function() {
-    return this.MoreAbout.Speaker;
-  },
+  "getSpeakers": lambda: Iza["MoreAbout"]["Speaker"],
   
-  getPhrase: function() {
-    return this.MoreAbout.Phrase;
-  }
+  "getPhrase": lambda: Iza["MoreAbout"]["Phrase"]
 }
 
-console.log(Iza.getLanguages());
-console.log(Iza.getTools());
-console.log(Iza.getSpeakers());
-console.log(Iza.getPhrase());
+print(Iza["getLanguages"]())
+print(Iza["getTools"]())
+print(Iza["getSpeakers"]())
+print(Iza["getPhrase"]())
 
+# De JS a Pyhton
 
 ``` 
 ---
