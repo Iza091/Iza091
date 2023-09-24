@@ -48,7 +48,7 @@ print(Iza["getPhrase"]())
 ---
 <img src="https://media.giphy.com/media/RLQUdWyDqEinYkiBcF/giphy.gif" width="250"> 
 
-![Iza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iza091&show_icons=true&theme=tokyonight)
+
 
 <img src="https://media.giphy.com/media/H42HxutOgUwRAkFX85/giphy.gif" width="250"> 
 
