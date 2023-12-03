@@ -2,8 +2,6 @@
 <img align='right' src="https://media.giphy.com/media/D0bvedQBJJJ5M42wNG/giphy.gif" width="230">  
 <p><em> Software Enginner Student at <a href="https://ugb.edu.sv/" target="_blank" >University Gerardo Barrios </a><img src="https://media.giphy.com/media/vjCEgY6ci1i2wgndJm/giphy.gif" width="30"></br>Developer Student at <a href="https://ugb.edu.sv/ingenieria-en-sistemas-y-redes-informaticas-semipresencial/" target="_blank">Ingeniería en Sistemas y Redes Informaticas </a><img src="https://media.giphy.com/media/YnNnXdEWvSSd763q0E/giphy.gif" width="30"> 
 </em></p>
-<a href="https://twitter.com/Izaauwu"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-<a href="https://www.instagram.com/izaauwu/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 <a href="https://www.linkedin.com/in/e-isa%C3%ADasvllgsortiz/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
  <a href="mailto:izagithub26@gmail.com?subject=HEY%20Git%20User%20Here"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 
