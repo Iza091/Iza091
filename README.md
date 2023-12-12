@@ -62,39 +62,13 @@ print(Iza["getChallenge"]())
 ---
 <img src="https://media.giphy.com/media/YOAho0PHXMEz0kL8tA/giphy.gif" width="250"> 
 
----
-  
+  ## Coffee Cup Project
+
+Proyect [here](https://github.com/Iza091/Coffe-Cup/blob/main/index.html).
+
+
   ```javascript
-class Coffee {
-  constructor() {
-    this.empty = true;
-  }
-
-  drink() {
-    if (!this.empty) {
-      console.log("You have taken a sip of coffee. Enjoy!");
-    } else {
-      console.log("Your coffee cup is empty. Please refill it.");
-    }
-  }
-
-  refill() {
-    this.empty = false;
-    console.log("Your coffee cup has been refilled. Enjoy!");
-  }
-}
-
-const coffee = new Coffee();
-
-if (coffee.empty) {
-  coffee.refill();
-} else {
-  coffee.drink();
-}
-
 // I'm a software developer
-//https://media.giphy.com/media/PdcLEDojqgvF1VceR5/giphy.gif | Mew
-  
 ``` 
   
 <img src="https://media.giphy.com/media/JpLvR1AirQDg34UYIk/giphy.gif" width="190"> 
