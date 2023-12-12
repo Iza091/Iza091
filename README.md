@@ -22,10 +22,11 @@ Iza = {
     "Speaker": ["Spanish", "English"],
     "Dream": "Do the best",
     "FavoriteFood": "Pupusa",
+    "Challenge": "Si el plan no funciona, cambia el plan, no la meta",
     "Phrase": "Haz siempre lo mejor que puedas, incluso si parece que nadie está viendo. " + 
     "El éxito llega eventualmente si no te rindes. - J-Hope of BTS"
   },
-  "Challenge": "Si el plan no funciona, cambia el plan, no la meta",
+ 
   
   "getLanguages": lambda: Iza["Code"] + Iza["CodeLearning"],
   
@@ -33,15 +34,17 @@ Iza = {
   
   "getSpeakers": lambda: Iza["MoreAbout"]["Speaker"],
   
-  "getPhrase": lambda: Iza["MoreAbout"]["Phrase"]
+  "getPhrase": lambda: Iza["MoreAbout"]["Phrase"],
+  "getChallenge": lambda: Iza["MoreAbout"]["Challenge"]
 }
 
 print(Iza["getLanguages"]())
 print(Iza["getTools"]())
 print(Iza["getSpeakers"]())
 print(Iza["getPhrase"]())
+print(Iza["getChallenge"]())
 
-# De JS a Pyhton
+
 
 ``` 
 ---
