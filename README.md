@@ -10,17 +10,19 @@
 
 ### <img src="https://media.giphy.com/media/ulUbC9aP9O8GAii3DY/giphy.gif" width="70"> A little more about me!!  <img src="https://media.giphy.com/media/fwVP07bjnMy5wJviHW/giphy.gif" width="70">
 
+[Portfolio here](https://iza091.github.io/IzaGithub.io/).
+
 ```python
 Iza = {
   "Pronouns": ["He", "Him", "She", "Her"], 
-  "Code": ["C#", "Java", "JavaScript", "HTML", "CSS", "Python"],
-  "CodeLearning": ["TypeScript"],
+  "Code": ["C#", "Java", "JavaScript", "HTML", "CSS", "Python,TypeScript,Nestjs,React"],
+  "CodeLearning": ["Nestjs"],
   "Tools": ["Vue", "Node", "Laravel"],
-  "ToolsLearning": ["React", "Vue"],
+  "ToolsLearning": ["Tailwind"],
   "Architecture": ["Design system pattern", "Develop", "BackEnd","FrontEnd"],
   "MoreAbout": {
     "Speaker": ["Spanish", "English"],
-    "Dream": "Do the best",
+    "Dream": "Do the best for you",
     "FavoriteFood": "Pupusa",
     "Challenge": "Si el plan no funciona, cambia el plan, no la meta",
     "Phrase": "Haz siempre lo mejor que puedas, incluso si parece que nadie está viendo. " + 
