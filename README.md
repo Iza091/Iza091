@@ -1,90 +1,68 @@
- <h2> <img src="https://media.giphy.com/media/Da1KCMzsm6d1fcUGLd/giphy.gif" width="50"> Hi, I'm Iza! <img src="https://media.giphy.com/media/VcwFL1JU5ZVBh7Fts0/giphy.gif" width="50"></h2>
+<h2 align="center"> 
+  <img src="https://media.giphy.com/media/Da1KCMzsm6d1fcUGLd/giphy.gif" width="50"> 
+  Hi, I'm Iza! 
+  <img src="https://media.giphy.com/media/VcwFL1JU5ZVBh7Fts0/giphy.gif" width="50">
+</h2>
+
 <img align='right' src="https://media.giphy.com/media/D0bvedQBJJJ5M42wNG/giphy.gif" width="230">  
-<p><em> Software Enginner Student at <a href="https://ugb.edu.sv/" target="_blank" >University Gerardo Barrios </a><img src="https://media.giphy.com/media/vjCEgY6ci1i2wgndJm/giphy.gif" width="30"></br>Developer Student at <a href="https://ugb.edu.sv/ingenieria-en-sistemas-y-redes-informaticas-semipresencial/" target="_blank">Ingeniería en Sistemas y Redes Informaticas </a><img src="https://media.giphy.com/media/YnNnXdEWvSSd763q0E/giphy.gif" width="30"> 
-</em></p>
-<a href="https://www.linkedin.com/in/e-isa%C3%ADasvllgsortiz/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
- <a href="mailto:izagithub26@gmail.com?subject=HEY%20Git%20User%20Here"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 
-  
+### 👨💻 About Me
+- 🎓 **Software Engineering Student** at [University Gerardo Barrios](https://ugb.edu.sv/)
+- 🌱 Currently mastering **NestJS** and **Tailwind CSS**
+- 💡 Passionate about full-stack development and clean architecture
+- 🎯 Life motto: *"Si el plan no funciona, cambia el plan, no la meta"*
+- ☕ Fueled by **pupusas** and great code
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://iza091.github.io/IzaGithub.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/e-isa%C3%ADasvllgsortiz/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:izagithub26@gmail.com)
+
 ---
 
-### <img src="https://media.giphy.com/media/ulUbC9aP9O8GAii3DY/giphy.gif" width="70"> A little more about me!!  <img src="https://media.giphy.com/media/fwVP07bjnMy5wJviHW/giphy.gif" width="70">
+### 🛠️ Tech Stack
+**Languages**  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-[Portfolio here](https://iza091.github.io/IzaGithub.io/).
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-```python
-Iza = {
-  "Pronouns": ["He", "Him", "She", "Her"], 
-  "Code": ["C#", "Java", "JavaScript", "HTML", "CSS", "Python,TypeScript,Nestjs,React"],
-  "CodeLearning": ["Nestjs"],
-  "Tools": ["Vue", "Node", "Laravel"],
-  "ToolsLearning": ["Tailwind"],
-  "Architecture": ["Design system pattern", "Develop", "BackEnd","FrontEnd"],
-  "MoreAbout": {
-    "Speaker": ["Spanish", "English"],
-    "Dream": "Do the best for you",
-    "FavoriteFood": "Pupusa",
-    "Challenge": "Si el plan no funciona, cambia el plan, no la meta",
-    "Phrase": "Haz siempre lo mejor que puedas, incluso si parece que nadie está viendo. " + 
-    "El éxito llega eventualmente si no te rindes. - J-Hope of BTS"
-  },
- 
-  
-  "getLanguages": lambda: Iza["Code"] + Iza["CodeLearning"],
-  
-  "getTools": lambda: Iza["Tools"] + Iza["ToolsLearning"],
-  
-  "getSpeakers": lambda: Iza["MoreAbout"]["Speaker"],
-  
-  "getPhrase": lambda: Iza["MoreAbout"]["Phrase"],
-  "getChallenge": lambda: Iza["MoreAbout"]["Challenge"]
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+
+---
+
+### 🎯 Featured Project
+**Coffee Cup Project** ☕  
+A responsive coffee shop website showcasing modern web design principles.  
+[View Project](https://github.com/Iza091/Coffe-Cup/blob/main/index.html) | 
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://github.com/Iza091/Coffe-Cup)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://github.com/Iza091/Coffe-Cup)
+
+![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=Iza091&show_icons=true&theme=TEMAshow_icons=true&theme=radical&hide_border=true&bg_color=00000000&text_color=58a6ff&custom_title=Mis%20Métricas%20GitHub)
+
+![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=Iza091&layout=compact&theme=TEMAshow_icons=true&theme=radical&hide_border=true&bg_color=00000000&text_color=58a6ff&custom_title=Mis%20Métricas%20GitHub)
+
+![Mis Stats](https://github-readme-stats.vercel.app/api?username=Iza091&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&text_color=58a6ff&custom_title=Mis%20Métricas%20GitHub)
+
+[![Visitas](https://komarev.com/ghpvc/?username=Iza091&color=COLOR&style=flat)](https://github.com/Iza091)
+
+```javascript
+// Always brewing fresh code!
+function makeCoffee(code) {
+  return ☕ + code;
 }
+```
+<img src="https://media.giphy.com/media/eGyF7Nek7QQZXLBC1Z/giphy.gif" width="100">
 
-print(Iza["getLanguages"]())
-print(Iza["getTools"]())
-print(Iza["getSpeakers"]())
-print(Iza["getPhrase"]())
-print(Iza["getChallenge"]())
-
-
-
-``` 
----
-
-<img src="https://media.giphy.com/media/l2AWFSUz5OLT0IljwA/giphy.gif" width="250"> 
-
-
-
-<img src="https://media.giphy.com/media/H42HxutOgUwRAkFX85/giphy.gif" width="250"> 
-
----
-<img src="https://media.giphy.com/media/eGyF7Nek7QQZXLBC1Z/giphy.gif" width="90">  <em><b> Tell me your story.</b> I want to hear your voice, and I want to hear your conviction. <b> No matter who you are, where you’re from, your skin colour, gender identity: </b> speak yourself.</em>  <img src="https://media.giphy.com/media/H3BownFihDztS6QNRI/giphy.gif" width="90">
-
-
----
-<img src="https://media.giphy.com/media/YOAho0PHXMEz0kL8tA/giphy.gif" width="250"> 
-
-  ## Coffee Cup Project
-
-Proyect [here](https://github.com/Iza091/Coffe-Cup/blob/main/index.html).
-
-
-  ```javascript
-// I'm a software developer
-``` 
-  
-<img src="https://media.giphy.com/media/JpLvR1AirQDg34UYIk/giphy.gif" width="190"> 
-<img src="https://media.giphy.com/media/14wm71RSxaYX60/giphy.gif" width="190"> 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmtodW9tcGZwcDY2Z2dlb2JocmUyZHkwMXhlN3dubjQzMzBxMjZubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QhtEyc5t9JEfAd3Vgm/giphy.gif" width="190">    
-
-
-
-  
----
-  
-From [@Iza091](https://github.com/Iza091) <img src="https://media.giphy.com/media/XYyxh0R1XilajMWB8X/giphy.gif" width="50"></h2>
-
-
- 
+### 🌟 Inspiration Corner
+### "Haz siempre lo mejor que puedas, incluso si parece que nadie está viendo. El éxito llega eventualmente si no te rindes."
+### – J-Hope de BTS 
 
 
